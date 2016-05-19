@@ -1,0 +1,26 @@
+
+ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+soundOff
+  rotate: false
+  xy: 0, 3
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+soundOn
+  rotate: false
+  xy: 65, 3
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+selected
+  rotate: false
+  xy: 0, 0
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
